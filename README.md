@@ -1,0 +1,2 @@
+# js-dev-environment
+Contains exercises from Cory House's course "Building a JavaScript Development Environment" for Pluralsight. In the course, he explores "the long list of decisions and patterns for building your own JavaScript development from scratch using modern tooling." Topics include transpiling, bundling, testing, and npm scripts for automation. Find course at https://app.pluralsight.com/library/courses/javascript-development-environment/table-of-contents
